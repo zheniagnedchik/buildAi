@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c60a491.css",
-    "main.js": "/static/js/main.138b80c1.js",
+    "main.css": "/static/css/main.736f013a.css",
+    "main.js": "/static/js/main.33f3b70e.js",
     "static/js/787.4c748e6a.chunk.js": "/static/js/787.4c748e6a.chunk.js",
+    "static/media/kids_book.jpg": "/static/media/kids_book.873e4b74e61a6cd7c3de.jpg",
     "static/media/background.webp": "/static/media/background.a376b59fd6a412566790.webp",
     "static/media/better.ttf": "/static/media/better.1d9a22dd13724e715542.ttf",
+    "static/media/png1.png": "/static/media/png1.19e41f0321a0485e3ec5.png",
     "static/media/shloprg.otf": "/static/media/shloprg.77418b31b67859ab73b3.otf",
     "static/media/newBack.jpg": "/static/media/newBack.57b5c19533800f5638e1.jpg",
     "static/media/Lifehack.ttf": "/static/media/Lifehack.ce238b9d63b608e7f41c.ttf",
+    "static/media/png2.png": "/static/media/png2.1f2832f9fa6d684732a9.png",
+    "static/media/png3.jpg": "/static/media/png3.9c53bd6418cd2463bb4e.jpg",
     "static/media/Brutal.ttf": "/static/media/Brutal.e7046443b1133c7a9539.ttf",
     "index.html": "/index.html",
-    "main.1c60a491.css.map": "/static/css/main.1c60a491.css.map",
-    "main.138b80c1.js.map": "/static/js/main.138b80c1.js.map",
+    "main.736f013a.css.map": "/static/css/main.736f013a.css.map",
+    "main.33f3b70e.js.map": "/static/js/main.33f3b70e.js.map",
     "787.4c748e6a.chunk.js.map": "/static/js/787.4c748e6a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c60a491.css",
-    "static/js/main.138b80c1.js"
+    "static/css/main.736f013a.css",
+    "static/js/main.33f3b70e.js"
   ]
 }
